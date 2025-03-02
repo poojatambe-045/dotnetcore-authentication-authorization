@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|solutionrelative:jwtproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\Program.cs",
+              "RelativeDocumentMoniker": "JWTProject.API\\Program.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\Program.cs",
+              "RelativeToolTip": "JWTProject.API\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:09:14.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

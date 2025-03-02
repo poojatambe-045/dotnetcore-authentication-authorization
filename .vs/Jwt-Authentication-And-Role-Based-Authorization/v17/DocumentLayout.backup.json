@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|solutionrelative:jwtproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B140465-4029-498F-BC1C-F6496590F2FE}|JWTProject.Data\\JWTProject.Data.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.data\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B140465-4029-498F-BC1C-F6496590F2FE}|JWTProject.Data\\JWTProject.Data.csproj|solutionrelative:jwtproject.data\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|solutionrelative:jwtproject.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|solutionrelative:jwtproject.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|solutionrelative:jwtproject.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B140465-4029-498F-BC1C-F6496590F2FE}|JWTProject.Data\\JWTProject.Data.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.data\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B140465-4029-498F-BC1C-F6496590F2FE}|JWTProject.Data\\JWTProject.Data.csproj|solutionrelative:jwtproject.data\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|solutionrelative:jwtproject.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B140465-4029-498F-BC1C-F6496590F2FE}|JWTProject.Data\\JWTProject.Data.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.data\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B140465-4029-498F-BC1C-F6496590F2FE}|JWTProject.Data\\JWTProject.Data.csproj|solutionrelative:jwtproject.data\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|solutionrelative:jwtproject.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|solutionrelative:jwtproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.api\\jwtproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05EFCC59-1A90-4832-926A-DC196FAA0404}|JWTProject.API\\JWTProject.API.csproj|solutionrelative:jwtproject.api\\jwtproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\Migrations\\20250302060342_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWTProject.Data\\Migrations\\20250302060342_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B140465-4029-498F-BC1C-F6496590F2FE}|JWTProject.Data\\JWTProject.Data.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.data\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B140465-4029-498F-BC1C-F6496590F2FE}|JWTProject.Data\\JWTProject.Data.csproj|solutionrelative:jwtproject.data\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B140465-4029-498F-BC1C-F6496590F2FE}|JWTProject.Data\\JWTProject.Data.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B140465-4029-498F-BC1C-F6496590F2FE}|JWTProject.Data\\JWTProject.Data.csproj|solutionrelative:jwtproject.data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B140465-4029-498F-BC1C-F6496590F2FE}|JWTProject.Data\\JWTProject.Data.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.data\\jwtproject.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B140465-4029-498F-BC1C-F6496590F2FE}|JWTProject.Data\\JWTProject.Data.csproj|solutionrelative:jwtproject.data\\jwtproject.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B140465-4029-498F-BC1C-F6496590F2FE}|JWTProject.Data\\JWTProject.Data.csproj|e:\\myfolder\\practice-notes\\practice\\github projects\\web api\\jwt-authentication-and-role-based-authorization\\jwtproject.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B140465-4029-498F-BC1C-F6496590F2FE}|JWTProject.Data\\JWTProject.Data.csproj|solutionrelative:jwtproject.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "JWTProject.API\\Controllers\\TestController.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\Controllers\\TestController.cs",
+              "RelativeToolTip": "JWTProject.API\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:11:13.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "JWTProject.API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "JWTProject.API\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAhwEEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:08:46.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "JWTProject.API\\Services\\IAuthService.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\Services\\IAuthService.cs",
+              "RelativeToolTip": "JWTProject.API\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:07:06.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "JWTProject.Data\\Models\\LoginModel.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\Models\\LoginModel.cs",
+              "RelativeToolTip": "JWTProject.Data\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:06:18.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "JWTProject.Data\\Models\\RegistrationModel.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "JWTProject.Data\\Models\\RegistrationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:05:40.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "JWTProject.API\\Services\\AuthService.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "JWTProject.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAGIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:07:34.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTProject.API\\appsettings.json",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\appsettings.json",
+              "RelativeToolTip": "JWTProject.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T05:49:12.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\Models\\UserRoles.cs",
+              "RelativeDocumentMoniker": "JWTProject.Data\\Models\\UserRoles.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\Models\\UserRoles.cs",
+              "RelativeToolTip": "JWTProject.Data\\Models\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:04:58.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "JWTProject.API\\Controllers\\ValuesController.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "JWTProject.API\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:09:40.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250302060342_init.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\Migrations\\20250302060342_init.cs",
+              "RelativeDocumentMoniker": "JWTProject.Data\\Migrations\\20250302060342_init.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\Migrations\\20250302060342_init.cs",
+              "RelativeToolTip": "JWTProject.Data\\Migrations\\20250302060342_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:03:42.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\Program.cs",
+              "RelativeDocumentMoniker": "JWTProject.API\\Program.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\Program.cs",
+              "RelativeToolTip": "JWTProject.API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T05:56:19.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JWTProject.Data\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JWTProject.Data\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T05:53:45.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JWTProject.API",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\JWTProject.API.csproj",
+              "RelativeDocumentMoniker": "JWTProject.API\\JWTProject.API.csproj",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.API\\JWTProject.API.csproj",
+              "RelativeToolTip": "JWTProject.API\\JWTProject.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T05:47:46.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "JWTProject.Data\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "JWTProject.Data\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T05:52:36.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JWTProject.Data",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\JWTProject.Data.csproj",
+              "RelativeDocumentMoniker": "JWTProject.Data\\JWTProject.Data.csproj",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\JWTProject.Data.csproj",
+              "RelativeToolTip": "JWTProject.Data\\JWTProject.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T05:44:35.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "JWTProject.Data\\Class1.cs",
+              "ToolTip": "E:\\MyFolder\\Practice-Notes\\Practice\\GitHub Projects\\Web API\\Jwt-Authentication-And-Role-Based-Authorization\\JWTProject.Data\\Class1.cs",
+              "RelativeToolTip": "JWTProject.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T05:43:46.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
