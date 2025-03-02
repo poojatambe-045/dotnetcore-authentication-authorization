@@ -39,6 +39,22 @@ builder.Services.AddAuthentication(options =>
                 };
             });
 
+//CORS configuration
+var apiCorsPolicy = "ApiCorsPolicy";
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: apiCorsPolicy,
+                      builder =>
+                      {
+                          builder.WithOrigins("http://localhost:4200")
+                            .AllowAnyHeader()
+                            .AllowAnyMethod()
+                            .AllowCredentials();
+                          //.WithMethods("OPTIONS", "GET");
+                      });
+});
+
 // Add services to the container.
 
 builder.Services.AddControllers();
